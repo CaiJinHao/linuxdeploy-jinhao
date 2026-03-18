@@ -36,3 +36,8 @@ sdk.dir=D\:\\Android\\Sdk
 # release 使用了debug 签名
 .\gradlew.bat clean assembleRelease
 ```
+
+## 如需修改名称
+
+app/build.gradle
+app/src/main/res/values/strings.xml
